@@ -24,13 +24,6 @@ You will be doing topic modelling on the .json data provided by the company. Sin
 
 With the help of topic modelling, you will be able to map each ticket onto its respective department/category. You can then use this data to train any supervised model such as logistic regression, decision tree or random forest. Using this trained model, you can classify any new customer complaint support ticket into its relevant department.
 
-# Dataset
-
-down load the data set from this link https://drive.google.com/file/d/1Y4Yzh1uTLIBLnJq1_QvoosFx9giiR1_K/view
-
-OR you may download the dataset added to this repo  https://github.com/santoshramakumar/Automatic-Ticket-Classification-/blob/563d92070d5e8b4a1ae90a91e0747224dc891129/complaints-2021-05-14_08_16.zip
-
-The data set given to you is in the .json format and contains 78,313 customer complaints with 22 features. You need to convert this to a dataframe in order to process the given complaints.
 
 # Tasks performed on dataset 
 
